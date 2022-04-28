@@ -236,3 +236,6 @@ Example:
 ```javascript
 bridge.disableJavscriptAlertBoxSafetyTimeout()
 ```
+
+
+
